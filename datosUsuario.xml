@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usuarios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-          xsi:noNamespaceSchemaLocation="esquema_usuarios.xsd">
+          xsi:noNamespaceSchemaLocation="esquemaUsuarios.xsd">
     <usuario>
         <nombreUsuario>alumnoDam2026</nombreUsuario>
         <email>estudiante@campuscamara.es</email>
