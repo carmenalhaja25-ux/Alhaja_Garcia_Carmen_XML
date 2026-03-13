@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+          xsi:noNamespaceSchemaLocation="esquema_usuarios.xsd">
+    <usuario>
+        <nombreUsuario>alumnoDam2026</nombreUsuario>
+        <email>estudiante@campuscamara.es</email>
+        <telefono>600112233</telefono>
+        <codigoPostal>41013</codigoPostal>
+        <contrasena>C@mara_2026</contrasena>
+    </usuario>
+</usuarios>
